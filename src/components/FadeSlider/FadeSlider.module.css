@@ -1,0 +1,10 @@
+.item img{
+    width: 1000px;
+    aspect-ratio: 2/1;
+    margin: 0 auto;
+}
+
+
+.t{
+    margin-top: 100px;
+}

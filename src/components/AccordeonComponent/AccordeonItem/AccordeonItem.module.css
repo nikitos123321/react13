@@ -1,0 +1,16 @@
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.item{
+    padding: 20px;
+    background-color: #c0c0c0;
+
+}
+.text{
+    padding-top: 20px;
+}

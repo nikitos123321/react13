@@ -1,0 +1,49 @@
+.flex {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.item img {
+    width: 20px;
+}
+
+.user_add {
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.user_add input,
+.user_add button,
+.message {
+    width: 300px;
+}
+
+.user_add input {
+    padding: 10px;
+}
+
+.message {
+    text-align: center;
+    color: rgb(228, 88, 18);
+}
+
+.user_add button {
+    padding: 10px;
+    background-color: #0009EA;
+    color: white;
+}
+
+.user_add button:hover{
+    background-color: #4d52ea;
+}
